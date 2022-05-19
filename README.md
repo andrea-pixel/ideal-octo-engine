@@ -1,2 +1,2 @@
 # ideal-octo-engine
-agreeting from a newbie
+a greeting from a newbie
